@@ -1,0 +1,158 @@
+<resources>
+    <string name="app_name">皮鞋小知识</string>
+    <string name="about_shoes">关于皮鞋</string>
+    <string name="qualify_shoes">质量鉴别</string>
+    <string name="choose_shoes">选购方法</string>
+    <string name="maintain_shoes">保养技巧</string>
+    <string name="about_apps">关于应用</string>
+
+    <string name="about_shoes_title">皮鞋</string>
+    <string name="about_shoes_title2">历史</string>
+    <string name="about_shoes_content1">   古称鞮（汉语拼音：dī），日语汉字也叫“革靴”，
+        是主要由动物皮革或人造皮革做的鞋类。皮鞋比布鞋坚固耐用，防水，透气性稍差。可以正式场合穿，
+        也可以休闲时候穿。款式很多。</string>
+    <string name="about_shoes_content2">   现今考古学认为，人类最早的皮鞋，
+        是约5500年前出现的阿雷尼-1皮鞋（Areni-1 shoe）。\n
+        \n
+           而在中国历史上，相传在黄帝时期就有臣子于则“用革造扉，用皮造履”。据可考察的史料记载，
+        商周时期的皮革工艺就已经成熟，西周铜器上可见到有关皮鞋的铭文。战国时期，孙膑被施以膑刑，
+        两腿不能动弹。为了行走，就根据古皮鞋改良出带鞋带的“高甬子履”，成为皮靴的原型。
+        汉朝时皮鞋有了很多种类，未经鞣制生革制成的皮鞋叫草鞮，用熟皮鞣制的鞋履叫韦鞮。
+        中国出现现代工艺的皮鞋最早是在1876年的上海，浦东鞋匠沈炳根在上海永安街开设了第一家现代皮鞋厂，
+        逐步将外国的皮鞋工艺在中国传播开来。\n
+        \n
+           现今，皮鞋已经有了很多种类，如有绅士鞋、学生鞋等；
+        也诞生了不少名牌，其中英国皮鞋工艺较高，但价钱也较昂贵，中国温州产皮鞋则价钱较便宜，
+        品质也有一定水准。</string>
+
+    <string name="quality_content">鉴定皮鞋质量的好坏，需要从外观和内在指标两方面着眼。
+        由于内在指标往往需要借助于检测仪器，对于一个消费者来讲，从外观上来鉴别皮鞋的质量更具有实际意义。
+        从外观上，主要通过对皮鞋的材料(包括鞋面、鞋底、鞋里)质量和做工两方面来鉴别皮鞋质量的好坏。\n
+    </string>
+    <string name="quality_title1">1．鞋面(帮)：</string>
+    <string name="quality_content1">鞋帮是皮鞋主要构成部分之一。对于光面皮鞋，
+        要看其是否柔软和丰满，用手按下鞋面后，是否出现松面现象，好的鞋面应该是丰满柔软，手感舒适，
+        光泽均匀一致，无松面现象。对绒面皮鞋的鞋面，应注意检查其绒毛是否短而均匀，其色调也应一致。
+        鞋里是鞋帮的一部分，它是为了补强鞋面、防止鞋帮延伸变形并改善脚感而使用的。所以，好的鞋里材料
+        (如真皮革鞋里)应具有良好的触感、透气性和排湿性，且不易脱色。在缝制上，鞋里不应有皱纹和肥边。
+    </string>
+    <string name="quality_title2">2．鞋垫：
+        </string>
+    <string name="quality_content2">通常的男皮鞋用内底后半截垫或后跟垫。女皮鞋用覆盖内底的全垫。
+        鞋垫具有保持鞋内底清洁、覆盖内底的凹凸不平，以改善脚感的作用。因此，鞋垫应具有良好的吸、排湿性。
+        在做工上，鞋垫应平展地黏附在内底上，不能有悬空之褶皱现象。
+    </string>
+    <string name="quality_title3">3．外底：</string>
+    <string name="quality_content3">从外表上来看，外底周边的结合状态应密切黏合而没有空隙，
+        底面应平整。</string>
+    <string name="quality_title4">4．鞋跟：</string>
+    <string name="quality_content4">不论是低跟还是高跟，首先要看其与皮鞋的配合是否自然平齐。
+        对于半高跟以上的女式皮鞋来讲．下面两点更为重要：一是鞋跟应牢同地装在内底上．前后左右摆动不应摇晃；
+        二是掌面应不小于鞋跟的底面。</string>
+    <string name="quality_title5">5．内底：</string>
+    <string name="quality_content5">一方面，看内底的材料，最好是真皮的。另一方面，要用手强力按压腰档，
+        相当于穿鞋时脚背的部分，纹丝不动的较好。在这种力的作用下，如皮鞋的沿口有变形，
+        说明该鞋的质量有问题。</string>
+    <string name="quality_title6">6．稳定性：</string>
+    <string name="quality_content6">将皮鞋放在平面上，皮鞋应马上静止不动，这样的皮鞋为稳定性好，
+        这也是优质皮鞋的基本条件之一。</string>
+
+    <string name="choose_shoes_content1">1.最好在下午三点至六点左右选鞋，因为脚部在此时会略微膨胀，
+        如果这时所选的尺码不觉得小，一天中其他时间穿着也没问题。站着试穿，因为站立时脚部会比坐着时略微大一点。
+        试穿时不能只穿进去对着镜子看一下就买，一定要来回走几步，细心感觉鞋的稳定性与大小是否合适。</string>
+    <string name="choose_shoes_content2">2.试鞋时自备干净的袜子，便于试鞋时的穿脱，避免试过的鞋子
+        里出现汗渍污渍的尴尬。</string>
+    <string name="choose_shoes_content3">3.试鞋时两只脚都要试穿，大概有2/3的人两只脚不一样大，记
+        住哪只长哪只短，试鞋时两只脚都要试穿。按照稍微大一点的那只脚选鞋。不能单纯根据鞋号去选鞋或托人代买
+        ，一定要亲自试穿，因为往楦头、款式或品牌型号标准的不同，鞋的具体大小也会有差异。</string>
+    <string name="choose_shoes_content4">4.考虑热胀冷缩，脚随着季节不同也会有热胀冷缩，所以在冬天买
+        夏天的打折鞋时，你试穿合适的尺码跟夏天比可能稍微小一点。</string>
+    <string name="choose_shoes_content5">5.选择合适的尺码，十个脚趾可以在鞋里自由地活动，有舒服的衬
+        垫和适度的内部空间；鞋底面与脚部凹陷处的弧度十分合脚，踝骨与脚尖触不到鞋；前脚要有一定的活动余地，
+        如果用脚尖顶住鞋头时脚后跟与鞋后帮之间还能伸进一个手指的距离，这个尺码刚好合适；脚后跟部的鞋底上表
+        面要很好地贴住脚后跟，走路的时候不能滑来滑去；自己从上往下看脚弓部与鞋子的中央弧度是否吻合，
+        确认脚围的松紧是否合适。</string>
+    <string name="choose_shoes_content6">6.别迁就一双不合尺寸的鞋，尺寸太小的鞋子即便穿得再久，
+        撑大程度也很有限，一时的脚面风光可能引起鸡眼、水泡、脚疼、腿疼、后背疼等一系列的病症。</string>
+    <string name="choose_shoes_content7">7.材质不好勿选，即使这双鞋拥有你梦寐以求的设计、近乎完美的弧度、
+        散发着最时髦的色彩光芒、合理的价格。</string>
+    <string name="choose_shoes_content8">8.摸两边的皮料，检查鞋的皮质好坏，不在鞋头而在鞋侧两边，
+        选鞋时最好摸两边的皮料，看看厚薄是否均匀。</string>
+    <string name="choose_shoes_content9">9.选柔软弹性的鞋底，能比较平均地分散冲击力。</string>
+    <string name="choose_shoes_content10">10.鞋跟与裤脚搭配，鞋跟越高，裤脚越宽；鞋跟越矮，
+        裤脚越窄。</string>
+    <string name="choose_shoes_content11">11.选择颜色比皮肤色调稍微暗一些的鞋，会显得腿长
+        个子高挑。</string>
+
+    <string name="maintain_shoes_content">愈重视搭配打扮的人，愈勤于保养鞋子。而穿上光可鉴人、
+        样式优美的鞋子，也是最基本的礼节之 一。好不容易买到自己满意的鞋子，应善加保养，以延长其寿命。
+        一旦试着学习保养鞋子，便可发觉其实幷不需花费太多时间，而且乐在其中</string>。
+    <string name="maintain_shoes_title1">*穿鞋时应先松开鞋带再使用鞋拔：</string>
+    <string name="maintain_shoes_content1">平日小心着用，
+        是鞋子保养的第一步。鞋子损坏多从后跟开始。因此，可多利用鞋拔子穿鞋。家中可准备长柄的，而平常则
+        准备可随身携带的。另外，穿鞋子时不要硬挤，穿有鞋带的皮鞋应养成松开鞋带后再穿的习惯。</string>
+    <string name="maintain_shoes_title2">*利用鞋楦防止鞋子变形：</string>
+    <string name="maintain_shoes_content2">防止鞋子变形，塞入鞋楦效果最佳。
+        脚形、走法、体温和湿气、雨水等因素均会导致鞋子走样，尤其是出脚汗或遭雨淋时，一定要用鞋楦子固定鞋形。
+        由于体温和湿气会让皮革松弛，在鞋内体温尚存时就必须设定好。</string>
+    <string name="maintain_shoes_title3">*买后立即做保养：</string>
+    <string name="maintain_shoes_content3">新鞋并没有涂上鞋油，为保护新鞋，
+        在未穿之前，用蓖麻子油在鞋底接缝部分擦一遍，就能加强防水的效果。而鞋面抹一层鶏油，可使硬的鞋面光泽、
+        柔软。如欲保持长久的光润，可用鲜牛奶涂擦一遍，将收到意想不到的效果。以上几个步骤做与不做，
+        与鞋子老化的速度关系甚大。</string>
+    <string name="maintain_shoes_title4">*同一双鞋换穿频率：</string>
+    <string name="maintain_shoes_content4">一般而言，再喜欢的鞋子也不该每日都穿。
+        不同的鞋子交换使用是防止鞋子老化的方法之一。每位男士上班族应该准备三至四双工作可穿的皮鞋，其中一双
+        可以是专门用来搭配正统西装、出席婚丧喜庆或极为正式场合的专用鞋；要不然最基本也得有三双鞋，其中一双
+        鞋尽量保持如新，避开皮面的刮伤，其余的两双则采轮替式换穿。如此非但皮鞋能有足够的时间休息更为耐穿外，
+        也能避免因脚汗而产生臭味。</string>
+    <string name="maintain_shoes_title5">*淋湿后的保养方法：</string>
+    <string name="maintain_shoes_content5">鞋被雨水淋湿后，立时作适当的处置，
+        可使鞋子不至变形。首先先用清水将白色薄膜擦拭干净，再利用吸水性佳的布料吸去鞋子表面的水分。鞋内置入
+        报纸或卫生纸，多加更换，以求完全吸干水分。干到某个程度，就应放入鞋楦以防变形。再置于通风处阴干或采
+        用吹风机以低温方式从皮鞋内辅助干燥也可，切忌使用高温会造成鞋面产生裂痕。完全干后，再仔细刷上乳化性
+        鞋油，则按照一般的保养法保养。</string>
+    <string name="maintain_shoes_title6">*保存皮鞋：</string>
+    <string name="maintain_shoes_content6">把不穿的皮鞋涂上鞋油存放，皮鞋的皮面会干燥裂口，
+        因为鞋油只适于擦天天穿用的皮鞋。应该在皮鞋表面涂上一层生物油，这才能使皮革保存长久。如果皮鞋长久不穿，
+        灰尘易附着在鞋面，最简单的方法就是把皮鞋用旧丝袜套起来收着，既方便又干净。</string>
+    <string name="maintain_shoes_title7">*换季保养可延长鞋子使用寿命： </string>
+    <string name="maintain_shoes_content7">只要配合换季的"保养剂"加强
+        清洁和滋润效果，就能常保光亮如新。鞋子的保养品包括了"防泼水"、"保护修复乳液"、"清洁组合"。</string>
+    <string name="maintain_shoes_title8">*必备的鞋子基本保养用品：</string>
+    <string name="maintain_shoes_content8">一周一次的保养鞋子的基本用品有
+        鞋刷、清洁油、鞋油、布、防水喷雾等物。最好使用马毛的鞋刷，幷至少拥有两支——大的刷鞋子整体，
+        小的刷细部。鞋油应鞋色配合。茶色的鞋子用茶色的鞋油，黑色的用黑鞋油。而鞋油与清洁油性质不符时，鞋子不
+        可能会变色，所以第一次擦新鞋时，应从不显眼的地方擦起。</string>
+    <string name="maintain_shoes_title9">正确的顺序如下：</string>
+    <string name="maintain_shoes_content9">
+        ①用大鞋刷轻刷整个鞋子，看看鞋沿的凸出部分有无沾染污垢？\n
+        ②鞋沿或接缝等凹凸部分，用小鞋刷刷掉污垢细尘。\n
+        ③松开鞋带，再用小鞋刷刷清从外侧不易见到的污垢。\n
+        ④挤少许清洁油于布上，涂满整个鞋子，此时，最重要的是要将残留在鞋上的旧鞋油彻底清涂干净。\n
+        ⑤拿另一块布（不可与使用清洁油的布相混），沾上少许的鞋油，涂满整个鞋子。鞋油大约取小指大小的量即可。\n
+        ⑥涂满整个鞋子后，用干净的软布磨光整只鞋。细部也不得马虎。\n
+        ⑦最后喷上防水雾。防水雾不仅能使鞋子防止水的侵袭，同时还具有不易沾染污垢的效果。防水雾干后，
+        再将鞋楦置入鞋内。
+    </string>
+
+    <string name="version">V 0.16.4.21</string>
+    <string name="credit_title">CREDIT：</string>
+    <string name="credit_content">Google</string>
+    <string name="credit_content2">https://www.google.com</string>
+    <string name="credit_content1">StudyJamscn</string>
+    <string name="credit_content3">http://www.studyjamscn.com</string>
+    <string name="text_source_title">CONTENT SOURCE:</string>
+    <string name="text_source_content">Wikipedia</string>
+    <string name="text_source_content1">https://www.wikipedia.org</string>
+    <string name="text_source_content2">BaiduBaike</string>
+    <string name="text_source_content3">http://baike.baidu.com</string>
+    <string name="image_source_title">IMAGE SOURCE:</string>
+    <string name="image_source_content">INTERNET </string>
+    <string name="copyright_title">COPYRIGHT:</string>
+    <string name="copyright_content">如果本应用使用的内容及图片侵犯了你的版权，\n请联系我予以删除。\n
+        If used the contents and images infringe your copyright, \n please contact me to delete it.
+    </string>
+    <string name="contact_author_title">CONTACT AUTHOR:</string>
+    <string name="contact_author_content">me@art2cat.com</string>
+</resources>
