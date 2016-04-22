@@ -151,8 +151,8 @@
     <string name="image_source_content">INTERNET </string>
     <string name="copyright_title">COPYRIGHT:</string>
     <string name="copyright_content">如果本应用使用的内容及图片侵犯了你的版权，\n请联系我予以删除。\n
-        If used the contents and images infringe your copyright, \n please contact me to delete it.
+        If the used contents and images infringe your copyright, \n please contact me to delete it.
     </string>
     <string name="contact_author_title">CONTACT AUTHOR:</string>
-    <string name="contact_author_content">me@art2cat.com</string>
+    <string name="contact_me_content">Contact Me</string>
 </resources>
