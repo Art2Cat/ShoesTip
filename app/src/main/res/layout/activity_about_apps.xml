@@ -9,7 +9,7 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     android:scrollbars="vertical"
     android:fadingEdge="vertical"
-    tools:context="cn.studyjams.s1.sj26.huangyiming.AboutActivity">
+    tools:context="cn.studyjams.s1.sj26.ShoesTip.AboutActivity">
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"

@@ -1,4 +1,4 @@
-package cn.studyjams.s1.sj26.huangyiming;
+package cn.studyjams.s1.sj26.ShoesTip;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

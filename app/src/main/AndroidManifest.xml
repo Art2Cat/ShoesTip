@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="cn.studyjams.s1.sj26.huangyiming">
+    package="cn.studyjams.s1.sj26.ShoesTip">
 
     <application
         android:allowBackup="true"
@@ -8,18 +8,18 @@
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/Theme.AppCompat.Light">
-        <activity android:name=".MainActivity">
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".AboutActivity" />
-        <activity android:name=".QualifyActivity" />
-        <activity android:name=".ChooseActivity" />
-        <activity android:name=".MaintainActivity" />
-        <activity android:name=".AboutAppsActivity"/>
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.AboutActivity" />
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.QualifyActivity" />
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.ChooseActivity" />
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.MaintainActivity" />
+        <activity android:name="cn.studyjams.s1.sj26.ShoesTip.AboutAppsActivity"/>
     </application>
 
 </manifest>
